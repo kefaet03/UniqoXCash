@@ -1,6 +1,6 @@
 # UniqoXCash
 
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-brightgreen) ![Technology](https://img.shields.io/badge/Technology-OOP-brightgreen)
 
 ## 📌 Overview
 
