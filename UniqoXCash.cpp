@@ -521,6 +521,11 @@ void updateMe(member &m)
             return;
         }
     }
+    else
+    {
+        npin = m.getPin();
+    }
+    
     bool otp = otp_related();
     if (otp)
     {
