@@ -1,6 +1,6 @@
 # UniqoXCash
 
-![Accuracy](https://img.shields.io/badge/Accuracy-92%25-blue)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Overview
 
